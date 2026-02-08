@@ -69,7 +69,7 @@ Súbelo a la sesión de Colab
 Ejecuta las celdas en orden
 
 Opción 2: Local (Jupyter Notebook)
-git clone https://github.com/tu-usuario/real-estate-cdmx-analysis.git
+git clone https://github.com/tu-usuario/real-estate-cdmx-analysis.git](https://github.com/maferf96-fcb/inmuebles-mxm.git
 cd real-estate-cdmx-analysis
 pip install -r requirements.txt
 jupyter notebook
